@@ -1,4 +1,4 @@
-# Duke Machine Learning Summer School 2018
+# Duke Machine Learning Summer School 2018 (Test)
 
 Welcome to the [Duke-Tsinghua Machine Learning Summer School 2018](https://www.fuqua.duke.edu/machine-learning-summer-school)!
 This repository will contain the lecture materials and assignments for the hands-on TensorFlow sessions.
